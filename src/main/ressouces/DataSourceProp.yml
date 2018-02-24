@@ -1,0 +1,6 @@
+platform: teradata
+username: LAQ_MIMOSA_PRD
+password: Y0z6HRDTA1XMgWtQrllG
+url: jdbc:teradata://bdd_stm_prod/CHARSET=UTF8
+driverClassName: com.teradata.jdbc.TeraDriver
+schemaName:
